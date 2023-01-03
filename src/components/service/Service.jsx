@@ -16,24 +16,24 @@ const Service = () => {
 
                 <ul className="service__list">
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Conduct user research and analysis</p>
                     </li>
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Create user flows and wireframes</p>
                     </li>
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Design visual mockups and prototypes</p>
                     </li>
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Conduct usability testing</p>
                     </li>
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Develop user experience strategy</p>
                     </li>
                 </ul>
             </article>
@@ -45,28 +45,28 @@ const Service = () => {
 
                 <ul className="service__list">
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Write and maintain code for websites</p>
                     </li>
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Create and customize web-based applications</p>
                     </li>
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Integrate databases and servers</p>
                     </li>
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Test and debug web applications</p>
                     </li>
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Optimize website performance and speed</p>
                     </li>
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Collaborate with designers and team members</p>
                     </li>
                 </ul>
             </article>
@@ -78,24 +78,24 @@ const Service = () => {
 
                 <ul className="service__list">
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Write and edit website content</p>
                     </li>
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Create audio and video content</p>
                     </li>
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Design visual content</p>
                     </li>
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Collaborate with clients</p>
                     </li>
                     <li>
-                        <BiCheck className="serivce__list-icon" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
+                        <BiCheck className="service__list-icon" />
+                        <p>Optimize content for search engines</p>
                     </li>
                 </ul>
             </article>

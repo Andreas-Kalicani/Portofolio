@@ -4,6 +4,10 @@
     gap: 2rem; 
 }
 
+#experience {
+    height: auto; 
+}
+
 .experience__container > div {
     background: var(--color-bg-variant); 
     padding: 2.4rem 5rem; 
@@ -44,7 +48,7 @@
 
 }
 
-/* =============== MEDIA QUERIES (SMALL DEVICE) ======== */
+/* =============== MEDIA QUERIES (MEDIUM DEVICE) ======== */
 
 @media screen and (max-width: 1024px){
     .experience__container{
@@ -60,6 +64,10 @@
     .experience__content{
         padding: 1rem; 
 
+    }
+
+    #experience {
+        height: 130vh;
     }
     
 }

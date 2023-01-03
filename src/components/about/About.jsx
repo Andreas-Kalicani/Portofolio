@@ -31,17 +31,16 @@ export const About = () => {
                     <article className="about__card">
                         <FiUsers className="about__icon" />
                         <h5>Clients</h5>
-                        <small>300+ Worldwide</small>
+                        <small>+3 Worldwide</small>
                     </article>
 
                     <article className="about__card">
                         <VscFolderLibrary className="about__icon" />
-                        <h5>Experience</h5>
-                        <small>2+ Years</small>
+                        <h5>Projects</h5>
+                        <small>10+ Projects</small>
                     </article>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi unde maxime, pariatur, tempore explicabo saepe cumque quas 
-                    libero perspiciatis delectus quam iste dolorem atque eligendi suscipit nesciunt dolor error ad?
+                <p>I'm a Frontend Developer with over 2 years of experience in HTML, CSS, JavaScript, React and more. My expertise lies in creating user-friendly, interactive web and mobile applications that are visually appealing and highly functional. I'm highly motivated, organized, and able to deliver projects on time and to the highest quality. With my experience and skills, I can help you take your project to the next level.
 
                 </p>
                 <a href="#contact" className="btn btn-primary">Let's Talk</a>
